@@ -19,7 +19,8 @@ A simple telegram bot for keeping a list of tasks.
     ````bash
     pip install -r requirements.txt
     ```
-3. Fill `utils/config.py` with your token.
+3. Fill `.env` file with your token.
+   
 4. Run:
     ```bash
     python main.py
