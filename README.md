@@ -5,8 +5,9 @@ A simple telegram bot for keeping a list of tasks.
 ## Commands
 
 - `/add task` - Add task
-- `/tasks` - Show all tasks
+- `/list` - Show all tasks
 - `/delete task` - Delete task by text
+- `/clear` - Delete all tasks
 
 ## Setup
 
