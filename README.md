@@ -23,5 +23,5 @@ A simple telegram bot for keeping a list of tasks.
    
 4. Run:
     ```bash
-    python main.py
+    python bot.py
     ```
